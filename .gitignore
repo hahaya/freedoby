@@ -1,3 +1,11 @@
+# Build dir
+bin/
+lib/
+build/
+Debug/
+Release/
+obj/
+
 # Compiled Object files
 *.slo
 *.lo
